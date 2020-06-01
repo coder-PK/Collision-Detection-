@@ -1,2 +1,2 @@
-# Collision-Detection-
-The rectangles turn red when there is a collision is progress.
+# p5.play-boilerplate
+Boiler plate for p5.play
